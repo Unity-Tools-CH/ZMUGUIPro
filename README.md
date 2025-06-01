@@ -1,4 +1,4 @@
-该课程是一款基于Unity UGUI拓展的插件ZMUGUIPro，主要目的是为一系列常用功能提供解决方案。
+该项目是一款基于Unity UGUI拓展的插件ZMUGUIPro，主要目的是为一系列常用功能提供解决方案。
 
 原 ZMUIFrameWork 配套插件库。
 
